@@ -1,0 +1,35 @@
+.heading{
+     background-color: black;
+     color: white;
+     text-align: center;
+     padding: 20px;
+}
+li{
+    display: inline;
+    cursor: pointer;
+    color: gray;
+
+}
+li:hover{
+    color: white;
+
+}.one{
+        display: inline-block;
+        width: 250px;
+        height: 350px;
+        border-style: solid;
+        border-width: 5px;
+        border-color: black;
+        margin-top: 25px;
+}
+.product{
+        text-align: center;
+}img{
+    
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+  
